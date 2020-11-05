@@ -1,0 +1,6 @@
+<b>Dataset</b>
+
+You need to combine your dataset from these two sources:
+
+Corona positive X-Rays
+Normal X-Rays
